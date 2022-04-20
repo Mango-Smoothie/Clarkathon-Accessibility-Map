@@ -1,0 +1,88 @@
+
+      [
+      {
+        "id": "16",
+        "name": "Dana Commons",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "543, 755, 573, 785"
+      },
+      {
+        "id": "24",
+        "name": "Goddard Library",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "1135, 688, 1165, 718"
+      },
+      {
+        "id": "42",
+        "name": "ASEC",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "1298, 1058, 1328, 1088"
+      },
+      {
+        "id": "19",
+        "name": "Estabrook Hall",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "1453, 616, 1483, 646"
+      },
+      {
+        "id": "8",
+        "name": "Blackstone Residence",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "236, 950, 266, 980"
+      },
+      {
+        "id": "39",
+        "name": "Maywood Residence",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "604, 832 , 634, 862"
+      },
+      {
+        "id": "27",
+        "name": "Higgins University Center",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "982, 1021, 1002, 1051"
+      },
+      {
+        "id": "3",
+        "name": "Sackler Sciences Building",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "859, 903, 889, 933"
+      },
+      {
+        "id": "38",
+        "name": "Math/Physics Building",
+        "description": "description",
+        "elevators": "yes",
+        "coord": "715, 913, 745, 943"
+      },
+      {
+        "id": "18",
+        "name": "Dodd Residence",
+        "description": "description",
+        "elevators": "no",
+        "coord": "1156, 549, 1186, 579"
+      },
+      {
+        "id": "28",
+        "name": "Hughs Residence",
+        "description": "description",
+        "elevators": "no",
+        "coord": "764, 679, 794, 709"
+      },
+      {
+        "id": "17",
+        "name": "Dana Residence",
+        "description": "description",
+        "elevators": "no",
+        "coord": "604, 678, 634, 708 "
+      }
+      
+    ]
