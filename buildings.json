@@ -8,6 +8,13 @@
         "coord": "543, 755, 573, 785"
       },
       {
+        "id": "10",
+        "name": "Carlson Hall",
+        "description": "description",
+        "elevators": "no",
+        "coord": "740, 810, 770, 840"
+      },
+      {
         "id": "24",
         "name": "Goddard Library",
         "description": "description",
