@@ -1,7 +1,3 @@
-var modal = new bootstrap.Modal(document.getElementById('myModal'), {
-    keyboard: false
-})
-
 let test =
     [
         {
