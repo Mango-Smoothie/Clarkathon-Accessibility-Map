@@ -3,99 +3,99 @@
       {
         "id": "16",
         "name": "Dana Commons",
-        "description": "description",
-        "elevators": "yes",
+        "description": "[description]",
+        "elevators": "Yes",
         "coord": "543, 755, 573, 785"
       },
 	{
         "id": "35",
         "name": "Kneller Athletic Center",
-        "description": "Mon-Thur: 7 a.m.-10 p.m. Fri: 7 a.m.-8 p.m. Sat: 10 a.m.-8 p.m. 10 a.m.-10 p.m.",
-        "elevators": "no",
+        "description": ["Mon-Thur: 7 a.m.-10 p.m.", "Fri: 7 a.m.-8 p.m.", "Sat: 10 a.m.-8 p.m.", "Sun: 10 a.m.-10 p.m."],
+        "elevators": "No",
         "coord": "984, 615, 1014, 645"
       },
       {
         "id": "10",
         "name": "Carlson Hall",
-        "description": "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m. Sat-Sun: Doors locked (restricted access)",
-        "elevators": "no",
+        "description": ["Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m.", "Sat-Sun: Doors locked (restricted access)"],
+        "elevators": "No",
         "coord": "740, 810, 770, 840"
       },
       {
         "id": "24",
         "name": "Goddard Library",
-        "description": "Academic Commons (1st floor) Monday–Friday Doors unlocked: 7 a.m. to 5 p.m. Doors locked; community swipe access: 5 p.m.–4 a.m. Library floors 2–5 Monday–Thursday: 8 a.m.–12 a.m. Friday: 8 a.m.–8 p.m. Saturday: 10 a.m.–8 p.m. Sunday: Noon–Midnight",
-        "elevators": "yes",
+        "description": ["Academic Commons (1st floor)", "Mon–Fri Doors unlocked: 7 a.m.-5 p.m.", "Doors locked; community swipe access: 5 p.m.–4 a.m.", "Library floors 2–5", "Mon–Thurs: 8 a.m.–12 a.m.", "Friday: 8 a.m.–8 p.m.", "Saturday: 10 a.m.–8 p.m.", "Sunday: Noon–Midnight"],
+        "elevators": "Yes",
         "coord": "1135, 688, 1165, 718"
       },
       {
         "id": "42",
         "name": "ASEC",
         "description": "description",
-        "elevators": "yes",
+        "elevators": "Yes",
         "coord": "1298, 1058, 1328, 1088"
       },
       {
         "id": "19",
         "name": "Estabrook Hall",
-        "description": "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m. Sat-Sun: Doors locked (restricted access)",
-        "elevators": "yes",
+        "description": ["Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m."," Sat-Sun: Doors locked (restricted access)"],
+        "elevators": "Yes",
         "coord": "1453, 616, 1483, 646"
       },
       {
         "id": "8",
         "name": "Blackstone Residence",
         "description": "description",
-        "elevators": "yes",
+        "elevators": "Yes",
         "coord": "236, 950, 266, 980"
       },
       {
         "id": "39",
         "name": "Maywood Residence",
         "description": "description",
-        "elevators": "yes",
+        "elevators": "Yes",
         "coord": "604, 832 , 634, 862"
       },
       {
         "id": "27",
         "name": "Higgins University Center",
-        "description": "Mon-Fri: Doors unlocked: 7:00 a.m.-7 p.m. Community swipe access: 7–11  p.m. Sat-Sun: Doors unlocked: 8:00 a.m.-7 p.m. Community swipe access: 7–11  p.m.",
-        "elevators": "yes",
+        "description": ["Mon-Fri: Doors unlocked: 7:00 a.m.-7 p.m. Community swipe access: 7–11 p.m.", "Sat-Sun: Doors unlocked: 8:00 a.m.-7 p.m. Community swipe access: 7–11  p.m."],
+        "elevators": "Yes",
         "coord": "982, 1021, 1002, 1051"
       },
       {
         "id": "3",
         "name": "Sackler Sciences Building",
-        "description": "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m. Sat-Sun: Doors locked (restricted access)",
-        "elevators": "yes",
+        "description": ["Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m.", "Sat-Sun: Doors locked (restricted access)"],
+        "elevators": "Yes",
         "coord": "859, 903, 889, 933"
       },
       {
         "id": "38",
         "name": "Math/Physics Building",
-        "description": "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m. Sat-Sun: Doors locked (restricted access)",
-        "elevators": "yes",
+        "description": ["Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m.", "Sat-Sun: Doors locked (restricted access)"],
+        "elevators": "Yes",
         "coord": "715, 913, 745, 943"
       },
       {
         "id": "18",
         "name": "Dodd Residence",
         "description": "description",
-        "elevators": "no",
+        "elevators": "No",
         "coord": "1156, 549, 1186, 579"
       },
       {
         "id": "28",
         "name": "Hughs Residence",
         "description": "description",
-        "elevators": "no",
+        "elevators": "No",
         "coord": "764, 679, 794, 709"
       },
       {
         "id": "17",
         "name": "Dana Residence",
         "description": "description",
-        "elevators": "no",
+        "elevators": "No",
         "coord": "604, 678, 634, 708 "
       }
       
