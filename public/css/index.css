@@ -1,3 +1,13 @@
 img {
     width: 100%;
 }
+.btn {
+text-align: left !important;
+}
+.even_row{
+    background-color: red;
+    color: white;
+}
+.odd_row{
+    background-color: white;
+}

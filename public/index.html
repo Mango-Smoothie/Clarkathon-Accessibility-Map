@@ -17,6 +17,8 @@
     <!--    jQuery-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+    <script src="js/index.js" defer></script>
+
 </head>
 <body>
 <div>
@@ -24,20 +26,24 @@
         <span class="navbar-brand mb-0 h1">Navbar</span>
     </nav>
 </div>
+
 <div class="container">
     <div class="row">
-        <div class="col-1">
+        <div class="col-lg-2" id="building_list_left">
         </div>
-        <div class="col-10">
+        <div class="col-lg-8">
             <map name="workmap">
-                <area shape="rect" coords="0,0, 100,100" alt="" href="https://www.google.com/">
+                <area shape="rect" coords="0,0, 100,100"  href="/" alt="" onclick="showInfoCard()">
+<!--                <area shape="rect" coords="0,0, 100,100" data-toggle="modal" data-target="#exampleModal" action="/new-car" method="post">-->
             </map>
             <img src="data/image.png" class="rounded mx-auto d-block" alt="..." usemap="#workmap">
         </div>
-        <div class="col-1">
+        <div class="col-lg-2" id="building_list_right">
         </div>
     </div>
 </div>
+
+
 <!-- Footer -->
 <footer class="page-footer font-small teal pt-4">
 
@@ -81,7 +87,6 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-        <a href="/"> MDBootstrap.com</a>
     </div>
     <!-- Copyright -->
 
