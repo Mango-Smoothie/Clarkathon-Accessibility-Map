@@ -1,0 +1,33 @@
+	
+      [
+      {
+        "id": "1",
+        "name": "Lasry-Bullock Incline",
+        "description": "The longest steady incline at Clark University. Low point is Lasry, high point is Bullock Hall",
+        "coord": "360, 442, 407, 442, 407, 466, 508, 466, 509, 442, 557, 442, 557, 478, 545, 478, 545, 508, 371, 508, 371, 480, 360, 480"
+      },
+	{
+        "id": "2",
+        "name": "Goddard Hill",
+        "description": "Low point is Dodd and Red Square, high point is Goddard Library",
+        "coord": "551, 551, 595, 551, 662, 453, 669, 254, 718, 254, 708, 468, 697 514, 612, 598, 574, 608, 550, 589"
+      },
+      {
+        "id": "3",
+        "name": "Bullock Elbow",
+        "description": "Low point is Alden Quad, high point is Bullock Hall",
+        "coord": "442, 333, 488, 333, 488, 352, 600, 381, 612, 442, 612, 479, 588, 499, 565, 481, 562, 418, 459, 388, 442, 370"
+      },
+      {
+        "id": "4",
+        "name": "Woodland Incline",
+        "description": "Low point is Main St. intersection, high point is Atwood Hall",
+        "coord": "722, 483, 770, 483, 770, 657, 746, 677, 722, 658"
+      },
+      {
+        "id": "5",
+        "name": "Charles Incline",
+        "description": "Low point is Florence St. intersection, high point is Estabrook Hall",
+        "coord": "789, 167, 846, 167, 866, 357, 843, 377, 818, 357"
+      }
+    ]
