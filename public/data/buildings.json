@@ -133,7 +133,7 @@
       "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m.",
       "Sat-Sun: Doors locked (restricted access)"
     ],
-    "elevators": "No",
-    "coord": "239,268,251,280 "
+    "elevators": "Yes",
+    "coord": "413,322,423,335 "
   }
 ]
