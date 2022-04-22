@@ -37,11 +37,6 @@ function get_building_button(building, idx) {
     return `<button type="button" data-b="${building.id}" class="btn btn-building w-100 btn-block ${idx % 2 === 0 ? 'btn-danger' : 'btn-light'} " data-bs-toggle="modal" data-bs-target="#exampleModal">${building.id}) ${building.name}</button>`
 }
 
-// showList(test);
-
-
-
-
 
 function fillModal(id) {
     let current_id = id.toString()
@@ -53,6 +48,5 @@ function fillModal(id) {
         }
     })
     console.log(id)
-
 }
 console.log(building_data)
