@@ -2,7 +2,7 @@
   {
     "id": "16",
     "name": "Dana Commons",
-    "description": "[description]",
+    "description": ["Community swipe only"],
     "elevators": "Yes",
     "coord": "215, 299, 227, 311"
   },
@@ -47,7 +47,7 @@
   {
     "id": "42",
     "name": "ASEC",
-    "description": "description",
+    "description": ["Community swipe only"],
     "elevators": "Yes",
     "coord": "514,419,526,431"
   },
@@ -64,14 +64,14 @@
   {
     "id": "8",
     "name": "Blackstone Residence",
-    "description": "description",
+    "description": ["Community swipe only"],
     "elevators": "Yes",
     "coord": "93,376,105,388"
   },
   {
     "id": "39",
     "name": "Maywood Residence",
-    "description": "description",
+    "description": ["Community swipe only"],
     "elevators": "Yes",
     "coord": "239,329,251,341"
   },
@@ -108,21 +108,31 @@
   {
     "id": "18",
     "name": "Dodd Residence",
-    "description": "description",
+    "description": ["Community swipe only"],
     "elevators": "No",
     "coord": "457,217,469,229"
   },
   {
     "id": "28",
     "name": "Hughs Residence",
-    "description": "description",
+    "description": ["Community swipe only"],
     "elevators": "No",
     "coord": "302,269,314,281"
   },
   {
     "id": "17",
     "name": "Dana Residence",
-    "description": "description",
+    "description": ["Community swipe only"],
+    "elevators": "No",
+    "coord": "239,268,251,280 "
+  },
+  {
+    "id": "34",
+    "name": "Jonas Clark",
+    "description": [
+      "Mon-Fri: Doors unlocked: 7:30 a.m.-5 p.m. Community swipe access: 5–10  p.m.",
+      "Sat-Sun: Doors locked (restricted access)"
+    ],
     "elevators": "No",
     "coord": "239,268,251,280 "
   }
