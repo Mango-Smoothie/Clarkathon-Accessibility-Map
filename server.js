@@ -3,7 +3,7 @@ const app = express();
 
 const bodyParser = require('body-parser');
 const fs = require("fs");
-let feedback = []
+
 
 app.use(bodyParser.urlencoded({extended: true}));
 
@@ -11,6 +11,8 @@ app.use(express.static(__dirname + "/public"));
 
 app.listen(3000, function () {
     console.log("server started at 3000")
+    const rawData=fs.readFileSync(__dirname+"/public/data/feedback.json");
+    feedback=JSON.parse(rawData);
     // console.log(carList);
 });
 
@@ -32,6 +34,15 @@ app.post('/new-message', (req, res) =>{
         feedback: req.body.feedback
     }
     feedback.push(message)
-    console.log(feedback)
-    res.redirect("/");
+    const feedbackJSON=JSON.stringify(feedback);
+    // console.log(carJSON);
+    fs.writeFile(__dirname + "/public/data/feedback.json", feedbackJSON,
+        function(err){
+            if(err){ // if error is not empty
+                console.log("JSON writing failed")
+            }
+            else{
+                res.redirect('/feedback');
+            }
+        });
 });

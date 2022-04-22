@@ -28,10 +28,22 @@
 </div>
 
 <div class="container mt-5">
-    <h1>Feedback</h1>
 
     <div class="row">
-        <div class="col-sm-8">
+
+        <div class="col-sm-6">
+            <section >
+                <h3>Feedback</h3>
+                <ul class="list-group" id="feedback_list">
+
+                </ul>
+            </section>
+        </div>
+
+        <!--Form-->
+        <div class="col-sm-6">
+            <h3>Something needs to change? Let us know!</h3>
+
             <div class="card">
                 <div class="card-body">
 
@@ -39,7 +51,8 @@
                     <form action="/new-message" method="POST">
                         <div class="mb-3">
                             <label for="building">Select a Building</label>
-                            <select id="building" class="form-select" aria-label="Default select example" name="building">
+                            <select id="building" class="form-select" aria-label="Default select example"
+                                    name="building">
                                 <option selected value="">Select a Building</option>
 
                                 <option value="Other">Other</option>
@@ -58,6 +71,8 @@
             </div>
         </div>
     </div>
+    <button onclick="window.location.href='/'">Home</button>
+
 </div>
 </body>
 </html>
