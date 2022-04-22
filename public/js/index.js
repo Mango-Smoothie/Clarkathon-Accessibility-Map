@@ -49,4 +49,3 @@ function fillModal(id) {
     })
     console.log(id)
 }
-console.log(building_data)
